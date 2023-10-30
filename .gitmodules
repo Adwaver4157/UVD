@@ -1,0 +1,3 @@
+[submodule "vip"]
+	path = vip
+	url = https://github.com/facebookresearch/vip.git
